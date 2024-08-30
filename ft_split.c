@@ -1,3 +1,4 @@
+#include "libft.h"
 #include <stdlib.h>
 
 int	word_count(const char *str, char c)
